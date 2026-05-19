@@ -68,6 +68,7 @@ These are tested defaults that keep everything stable when running other softwar
 | **[QUICKSTART](QUICKSTART.md)** | Start here. Zero to running model in minimal steps. |
 | **[SETUP](SETUP.md)** | After QUICKSTART works and you want to understand what you built. |
 | **[CONFIG](CONFIG.md)** | When customizing model settings or switching between models. |
+| **[CAVEATS](CAVEATS.md)** | Reality check: honest assessment of tradeoffs, costs, and limitations. |
 | **[NOTES](NOTES.md)** | For design rationale, hardware recommendations, troubleshooting. |
 | **[Use Cases](USE_CASES.md)** | See it in action: PowerShell generation and error troubleshooting. |
 

@@ -360,6 +360,8 @@ These commands and configurations work on Windows 11 24H2 systems with 32GB RAM,
 
 **See it in action:** [USE_CASES.md](USE_CASES.md) for practical examples.
 
+**Reality check:** [CAVEATS.md](CAVEATS.md) for honest assessment of tradeoffs and limitations.
+
 **Back to basics:** [QUICKSTART.md](QUICKSTART.md) | [SETUP.md](SETUP.md) | [CONFIG.md](CONFIG.md)
 
 ---
