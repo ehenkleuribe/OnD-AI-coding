@@ -128,6 +128,8 @@ Optional logging configuration.
 
 ## Model Switching Workflow
 
+<img src="assets/Droid.png" alt="Automated workflow" width="80" align="right"/>
+
 When you want to switch models, you need to coordinate between LM Studio and opencode:
 
 ### Step 1: Unload Current Model (LM Studio)
@@ -307,6 +309,6 @@ Check `opencode --help` to see if your version supports this.
 
 ---
 
-<img src="assets/DFT Logo - Full Fox - Orange.png" alt="Technology Core Infra" width="100"/>
+<img src="assets/gen_b9cef0ae117741a2a76fa8630fcea844.png" alt="Team" width="80"/> <img src="assets/DFT Logo - Full Fox - Orange.png" alt="Technology Core Infra" width="100"/>
 
 </div>

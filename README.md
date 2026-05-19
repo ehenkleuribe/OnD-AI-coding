@@ -63,8 +63,6 @@ These are tested defaults that keep everything stable when running other softwar
 
 ## 📚 Documentation Structure
 
-<img src="assets/gen_b9cef0ae117741a2a76fa8630fcea844.png" alt="Documentation guide" width="100" align="right"/>
-
 | Document | When to Read |
 |:---|:---|
 | **[QUICKSTART](QUICKSTART.md)** | Start here. Zero to running model in minimal steps. |
@@ -114,6 +112,6 @@ If you're a professional looking to expand your capabilities with practical AI t
 
 ---
 
-<img src="assets/DFT Logo - Full Fox - Orange.png" alt="Technology Core Infra" width="120"/>
+<img src="assets/gen_b9cef0ae117741a2a76fa8630fcea844.png" alt="Team" width="80"/> <img src="assets/DFT Logo - Full Fox - Orange.png" alt="Technology Core Infra" width="120"/>
 
 </div>

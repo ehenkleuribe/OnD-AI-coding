@@ -6,6 +6,8 @@ You've set up LM Studio + opencode. Now see why it's worth it. Two practical exa
 
 ## Use Case 1: Generate PowerShell Automation Script
 
+<img src="assets/Droid.png" alt="Automation generation" width="90" align="right"/>
+
 **Scenario:** You need to provision multiple user accounts with specific permissions and group memberships. Manually clicking through Active Directory is tedious and error-prone.
 
 ### The Request
@@ -448,6 +450,6 @@ Read [NOTES.md](NOTES.md) for technical details and troubleshooting.
 
 ---
 
-<img src="assets/DFT Logo - Full Fox - Orange.png" alt="Technology Core Infra" width="100"/>
+<img src="assets/gen_b9cef0ae117741a2a76fa8630fcea844.png" alt="Team" width="80"/> <img src="assets/DFT Logo - Full Fox - Orange.png" alt="Technology Core Infra" width="100"/>
 
 </div>
