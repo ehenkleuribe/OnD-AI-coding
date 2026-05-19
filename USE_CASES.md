@@ -438,7 +438,7 @@ Try: "Create PowerShell backup script for Windows Server 2022 that backs up C:\D
 
 <div align="center">
 
-<img src="assets/AIN Green Stream - Survey Thanks.jpg" alt="Team celebration - Good job completing setup" width="800"/>
+<img src="assets/cory-force-user.png" alt="Mastery achieved" width="200"/>
 
 **Ready to try these yourself?**
 

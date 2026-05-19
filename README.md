@@ -104,8 +104,6 @@ If you're a professional looking to expand your capabilities with practical AI t
 
 <div align="center">
 
-<img src="assets/AIN Green Stream - Survey Thanks.jpg" alt="Team celebration - Good job! Ready to begin" width="800"/>
-
 **[Start Setup →](QUICKSTART.md)**
 
 *Local models. Local data. Your expertise, amplified.*
