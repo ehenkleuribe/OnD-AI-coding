@@ -157,6 +157,8 @@ opencode "write a hello world PowerShell script"
 
 ## Step 7: Verify Single-Model Setup
 
+<img src="assets/cory-police.png" alt="Security verification" width="150" align="right"/>
+
 ```powershell
 lms ps
 ```

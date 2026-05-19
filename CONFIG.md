@@ -6,10 +6,6 @@ This document defines the `opencode.json` configuration for local AI coding with
 
 ---
 
-<div align="center">
-<img src="assets/Droid.png" alt="Automation assistant icon" width="120"/>
-</div>
-
 ## Minimal Working Configuration
 
 Copy this into your project root as `opencode.json`:
@@ -214,9 +210,9 @@ lms search "qwen 3.6 35b"
 ---
 
 <div align="center">
-<img src="assets/AI Cory - Concerned.png" alt="Team member troubleshooting technical issue" width="180"/>
+<img src="assets/cory-007.png" alt="Mission-critical configuration" width="180"/>
 
-*Common mistakes ahead - read carefully*
+*Precision matters - critical configuration ahead*
 </div>
 
 ## Configuration Don'ts
@@ -232,6 +228,8 @@ lms search "qwen 3.6 35b"
 ---
 
 ## Verification Checklist
+
+<img src="assets/cory-police.png" alt="Configuration verification" width="150" align="right"/>
 
 After configuration changes:
 

@@ -1,5 +1,17 @@
 # DOCUMENTATION PLAN: Windows 11 Local AI Coding Setup
 
+## TODO / Pending
+
+**Powerpoint Mask Integration:**
+- **Asset:** `assets/Powerpoint Mask.png` (859×312px, 2.75:1 aspect ratio)
+- **Design:** White/gradient top transitioning to blue circuit board pattern bottom, RGBA with transparency
+- **Intent:** Use as semi-transparent background for text overlay in markdown
+- **Purpose:** "White on top/pattern on bottom good for semi transparent background for text"
+- **Status:** Deferred - need to identify best location and implementation approach that works gracefully in markdown
+- **Notes:** GitHub markdown has limited CSS/styling support; may need composite image or alternative approach
+
+---
+
 ## What This Is
 
 A recipe from zero to basics: how IT professionals add local AI coding capabilities to their toolkit using LM Studio + opencode on Windows 11. 

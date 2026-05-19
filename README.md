@@ -63,6 +63,8 @@ These are tested defaults that keep everything stable when running other softwar
 
 ## 📚 Documentation Structure
 
+<img src="assets/gen_b9cef0ae117741a2a76fa8630fcea844.png" alt="Documentation guide" width="100" align="right"/>
+
 | Document | When to Read |
 |:---|:---|
 | **[QUICKSTART](QUICKSTART.md)** | Start here. Zero to running model in minimal steps. |

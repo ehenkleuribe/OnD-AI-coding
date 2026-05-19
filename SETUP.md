@@ -60,6 +60,10 @@ lms server stop
 
 ## Model Management
 
+<div align="center">
+<img src="assets/CORY PC Cat.png" alt="IT infrastructure specialist" width="200"/>
+</div>
+
 ### Searching for Models
 
 ```powershell
@@ -176,6 +180,8 @@ Create `opencode.json` in your working directory or home directory:
 </div>
 
 ## Verification Checklist
+
+<img src="assets/cory-police.png" alt="Security verification officer" width="180" align="right"/>
 
 **After setup, verify:**
 
