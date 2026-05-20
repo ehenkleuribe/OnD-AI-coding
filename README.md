@@ -78,18 +78,18 @@ These are tested defaults that keep everything stable when running other softwar
 
 <img src="assets/Droid.png" alt="Automation assistant icon" width="80" align="right"/>
 
-Ready to try it? Three commands to get running:
+Are you familiar with local AI setup already? Then you can use these three commands to get running:
 
 ```powershell
 # Install LM Studio
 winget install ElementLabs.LMStudio --accept-package-agreements --accept-source-agreements
 
-# Download and start (see QUICKSTART.md for full details)
+# Download and start
 lms get <model-name>
 lms load <model-name> --context-length 32768 --parallel-requests 1
 ```
 
-Then follow [QUICKSTART.md](QUICKSTART.md) for the complete setup sequence.
+DO you need step-by-step guidance? Then follow [QUICKSTART.md](QUICKSTART.md) for the complete setup sequence.
 
 ---
 
