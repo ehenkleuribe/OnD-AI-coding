@@ -27,11 +27,11 @@ The engagement runs across five phases:
 
 | Phase | Duration | Theme | Output |
 |:---|:---|:---|:---|
-| Week 0 | 17 days | Preparation | GitHub/org access, tooling setup, foundational reading |
+| Week 0 | 24 days | Preparation | GitHub/org access, tooling setup, foundational reading |
 | Week 1 | 7 days | Make it work | First working local AI deliverable + Week 1 NOTES.md |
-| Week 2 | 7 days | Make it better | IDE-connected workflow deliverable + Week 2 NOTES.md |
-| Week 3 | 7 days | Make it practical | Real-world scripting/automation deliverable + Week 3 NOTES.md |
-| Week 4 | 7 days | Make it real | MVP application + Week 4 NOTES.md + collective ASSESSMENT.md |
+| Week 2 | 6 days | Make it better | IDE-connected workflow deliverable + Week 2 NOTES.md |
+| Week 3 | 8 days | Make it practical | Real-world scripting/automation deliverable + Week 3 NOTES.md |
+| Week 4 | 8 days | Make it real | MVP application + Week 4 NOTES.md + collective ASSESSMENT.md |
 
 Each week has pre-specified deliverable criteria. The challenge scope is fixed — there is no agreement needed on what to build each week. This is deliberate: in a virtual, async format, open-ended scoping is where momentum dies. Participants work within the definition.
 
